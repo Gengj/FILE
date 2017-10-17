@@ -57,6 +57,7 @@ if __name__ == '__main__':
     # --------------------
     info.delete_section('life')
     info.delete_section('live')
+    info.cfg_dump()
 
     # info.cfg.add_section()
 
